@@ -3,7 +3,7 @@ name: Build EXE
 on:
   push:
     branches:
-      - main  # or 'master', based on your branch name
+      - master  # or 'master', based on your branch name
   pull_request:
 
 jobs:
