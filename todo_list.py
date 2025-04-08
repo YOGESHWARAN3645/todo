@@ -6,7 +6,7 @@ while True:
     print("2. View Tasks")
     print("3. Remove Task")
     print("4. Clear All Tasks")
-    print("5. Exit")
+    print("5. Exit the application")
 
     choice = input("Enter choice: ")
 
