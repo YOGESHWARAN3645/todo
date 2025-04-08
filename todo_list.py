@@ -2,7 +2,7 @@ tasks = []
 
 while True:
     print("\nMenu:")
-    print("1. Add Task")
+    print("1. Add Task1")
     print("2. View Tasks")
     print("3. Remove Task")
     print("4. Clear All Tasks")
